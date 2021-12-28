@@ -11,6 +11,7 @@ public class FirstCommit
 		System.out.println("Commiting from eclipse");
 		System.out.println("Commiting from eclipse for rebase");
 		System.out.println("Commiting from eclipse for rebase one more time");
+		System.out.println("Commiting from github for rebase one more time");
 	}
 
 }
