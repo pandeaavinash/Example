@@ -7,7 +7,7 @@ public class FirstCommit
 	{
 		System.out.println("Hi");
 		System.out.println("Added this line from github editor to check PR and then pull request");
-
+		System.out.println("Hi");
 	}
 
 }
